@@ -1,0 +1,12 @@
+{
+  "name": "tb-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.0",
+    "pdfkit": "^0.15.0"
+  }
+}
